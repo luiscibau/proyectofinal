@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 stock:0,
 precio:0,
-url:'https://lhc1985.pythonanywhere.com/productos'+id,
+url:'https://lhc1985.pythonanywhere.com/productos/'+id,
 }
 },
 methods: {
